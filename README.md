@@ -2,8 +2,8 @@
  WebRTC使用demo
 ## 环境
 
-Xcode10.2版本
-**GoogleWebRTC** API
+* Xcode10.2版本
+* 采用**GoogleWebRTC**
 
 ## 如何测试
 
