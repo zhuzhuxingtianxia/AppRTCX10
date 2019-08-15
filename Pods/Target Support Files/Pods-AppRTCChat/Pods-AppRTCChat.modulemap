@@ -1,0 +1,6 @@
+framework module Pods_AppRTCChat {
+  umbrella header "Pods-AppRTCChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
